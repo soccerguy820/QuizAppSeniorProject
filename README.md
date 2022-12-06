@@ -9,6 +9,7 @@ A few sources used to help with coding in Flutter:
 
 To learn how to utilize Firebase Auth
 - https://www.youtube.com/watch?v=rWamixHIKmQ&list=PLcrSWOi_JtADikc8e0oqVZIgw8Plo8tYj&index=6
+
 To learn how to use forms:
 - https://www.youtube.com/watch?v=qjai708Jp2Y&list=PLBxWkM8PLHcpwZRAHN--L8aZ2UUkJA-SD
 
