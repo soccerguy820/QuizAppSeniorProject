@@ -13,7 +13,7 @@ To learn how to utilize Firebase Auth
 To learn how to use forms:
 - https://www.youtube.com/watch?v=qjai708Jp2Y&list=PLBxWkM8PLHcpwZRAHN--L8aZ2UUkJA-SD
 
-- [Documentation Repository](https://docs.flutter.dev/get-started/codelab)
+- [Documentation Repository](https://github.com/soccerguy820/SeniorProjDoc)
 
 References:
 
